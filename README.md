@@ -35,14 +35,9 @@ I'm a passionate developer with a love for learning new technologies and buildin
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhasarkar53&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhasarkar53&layout=compact&theme=radical)
 
-## Recent Projects
-
-- [Project 1](https://github.com/shubhasarkar53/project1): A brief description of what this project does and its purpose.
-- [Project 2](https://github.com/shubhasarkar53/project2): A brief description of what this project does and its purpose.
-- [Project 3](https://github.com/shubhasarkar53/project3): A brief description of what this project does and its purpose.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubha-sarkar-862588213)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/mesarkar01)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sarkarshubha123@gmail.com)
